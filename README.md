@@ -1,6 +1,6 @@
 # Using MaroMayber
 
-Run "python _MaroMayber"
+Run "python _MaroMayber.py"
 
 Wait a really long time
 
